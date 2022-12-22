@@ -1,3 +1,4 @@
 # Technology-Guide
-A user Guide program to assert Pepole get the best time saveing help by accessing diffrent stores with a lot of facilites.
-Postman: https://documenter.getpostman.com/view/24870337/2s8Z6u5amN
+A user Guide program to provide places and products with their details to assert Pepole get Informations based on their needs by accessing diffrent stores with and a lot of facillites to save time and gas.
+Postman:
+https://documenter.getpostman.com/view/24870337/2s8Z6u5amN
